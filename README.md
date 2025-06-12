@@ -12,6 +12,8 @@ A full-stack web application for managing events, built using **React** (fronten
 - View analytics per event
 - RESTful API design
 - MySQL database integration
+
+  
 ##API Documentation
 
 - /add-event
