@@ -2,6 +2,11 @@
 
 A full-stack web application for managing events, built using **React** (frontend), **Node.js/Express** (backend), and **MySQL** (database). This system allows users to create, view, update, and delete events, register attendees, and view analytics.
 
+## Run project 
+- Clone nipunajithlakshan/Event-Management-System
+- npm install
+- npm start
+
 ---
 
 ## 🚀 Features
@@ -14,7 +19,7 @@ A full-stack web application for managing events, built using **React** (fronten
 - MySQL database integration
 
   
-##API Documentation
+## API Documentation
 
 - /add-event
 - /get-all-events
