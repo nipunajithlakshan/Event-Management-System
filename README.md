@@ -23,11 +23,11 @@ A full-stack web application for managing events, built using **React** (fronten
 
 - /add-event
 - /get-all-events
--/update-event/:id
--/register-attendee/:id
--/delete-event/:id
--/attendees/:id
--/analytics/:id
+- /update-event/:id
+- /register-attendee/:id
+- /delete-event/:id
+- /attendees/:id
+- /analytics/:id
 
 ---
 
